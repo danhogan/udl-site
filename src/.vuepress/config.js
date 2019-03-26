@@ -4,16 +4,16 @@ module.exports = {
 	title: 'Ultimate Dynasty League',
 	dest: './public',
 	themeConfig: {
-		repo: 'https://wwww.github.com',
+		// repo: 'https://wwww.github.com',
 		repoLabel: 'Repo',
-		editLinks: true,
+		editLinks: false,
 		editLinkText: 'Found a bug? Help me improve this page!',
 		nav: [
 			{ text: 'Home', link: '/' },
 			{ text: 'Blog', link: '/blog/' },
 			{ text: 'About', link: '/about/' }
 		],
-		logo: 'https://avatars.slack-edge.com/2018-10-01/447269273013_92658d522875e6bb80a7_88.png',
+		logo: 'udl.png',
 		docsDir: 'src',
 		pageSize: 5,
 		startPage: 0,
