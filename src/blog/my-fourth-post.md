@@ -1,8 +1,9 @@
 ---
 title: My Fourth Post
 date: 2018-12-28 17:22:00
-type: post
 excerpt: I'm creating my first post!
+type: post
+blog: true
 tags:
     - Blogging
     - Tutorials

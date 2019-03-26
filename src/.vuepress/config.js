@@ -13,7 +13,7 @@ module.exports = {
 			{ text: 'Blog', link: '/blog/' },
 			{ text: 'About', link: '/about/' }
 		],
-		logo: 'udl.png',
+		logo: '/udl.png',
 		docsDir: 'src',
 		pageSize: 5,
 		startPage: 0,
