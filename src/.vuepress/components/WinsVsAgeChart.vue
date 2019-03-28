@@ -4,9 +4,7 @@
     <div id="chartHere"></div>
     <!-- <script src="https://cdnjs.cloudflare.com/ajax/libs/d3/3.5.17/d3.min.js"></script> -->
     <script>
-var d3Script = document.createElement('script');  
-d3Script.setAttribute('src','https://cdnjs.cloudflare.com/ajax/libs/d3/3.5.17/d3.min.js');
-document.head.appendChild(d3Script);
+
 
         const finalObject = [
         {
@@ -303,6 +301,17 @@ document.head.appendChild(d3Script);
     </script>
     </div>
 </template>
+
+<script>
+export default {
+    mounted(){
+        let scriptEl = document.createElement('script');
+        scriptEl.setAttribute('src', 'https://cdnjs.cloudflare.com/ajax/libs/d3/3.5.17/d3.min.js');
+        this.$refs.head.appendChild(scriptEl);
+    }
+}
+</script>
+
 
 <style>
     .line {
