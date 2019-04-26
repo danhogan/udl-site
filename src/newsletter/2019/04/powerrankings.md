@@ -84,7 +84,7 @@ Big League Chu has been off to a torrid start to the year, unsurprisingly follow
 
 Our newest Canadian owner comes in at the seventh spot. Kyle Biggs and his Springfield Isotopes have not been immune to the injury bug, most notably losing Miguel Andujar and Miguel Sano. Still, the offense is doing just fine, led by JD Martinez and Charlie Blackmon. Jose Berrios and Masahiro Tanaka are the aces of a good, but not great pitching staff. All that has led to a very impressive 21-8-1 (.717) start to the year, second only to a team further up my ranks.
 
-### 6. Torrano Beisbol Birds - Josh Botehlo (Previous: 10)
+### 6. Torrano Beisbol Birds - Josh Botelho (Previous: 10)
 
 The Torrano Beisbol Birds are a team of studs and JAGs (Just a Guy). Jose Ramirez, Carlos Correa, and Eloy Jimenez are at the top of a very good offense that is deep with viable options. After the Harper trade, the Birds pitching is much improved. The addition of Aaron Nola and David Price to James Paxton gives Josh’s squad a very good top three starters to lean on for success, with a few interesting options to back them up. The Beisbol Birds currently have a very nice 18-8-4 (.667) record to begin the 2019 season. 
 
