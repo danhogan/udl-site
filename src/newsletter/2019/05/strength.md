@@ -1076,12 +1076,6 @@ tags:
     posObjs();</script>
 
 <style>
-    .content {
-        max-width: 1800px !important;
-    }
-</style>
-
-<style>
 .content:not(.custom) > h1:first-child + p {
     margin-top: 0 !important;
 }
