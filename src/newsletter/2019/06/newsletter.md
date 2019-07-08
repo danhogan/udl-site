@@ -18,14 +18,15 @@ Again, if you want help with a logo, I'm willing to try to help.
 
 I've been messing around with the layout of things here. Hopefully you can still find things alright.
 
+## Articles
 <div class="articleContainer">
-<a href="/newsletter/2019/06/powerrankings.html" class="article">
+<!-- <a href="/newsletter/2019/06/powerrankings.html" class="article">
     <img src="https://2.bp.blogspot.com/-MwFgEUyE5qo/WkMcQv1zJ1I/AAAAAAAAJG4/mLoYsjuTQ9gjb9h8eJZ0gTABinanih2-gCLcBGAs/s1600/Baseball-Bat.jpg">
     <div>
         <h3>Power Rankings</h3>
         <span>by Austin B (The Gamblers)</span>
     </div>
-</a>
+</a> -->
 
 <a href="/newsletter/2019/06/matchups.html" class="article">
     <img src="https://i.ytimg.com/vi/g4diNGvUEzM/maxresdefault.jpg">
@@ -35,7 +36,7 @@ I've been messing around with the layout of things here. Hopefully you can still
 </a>
 
 <a href="https://ultimatedynastyleague.slack.com/files/UCZSGGMK7/FKE79KYL9/joe_feery_udl_league_owner_bringers_of_war.mp4" target="_blank" class="article">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/Vegemiteontoast_large.jpg/235px-Vegemiteontoast_large.jpg">
+    <img src="https://ca.slack-edge.com/TCWBT3X7C-UCZSGGMK7-74f0d99497a8-512">
     <div>
         <h3>Vegemite With Vandenberg</h3>
         <span>ft. Joe - Bringers of W.A.R.</span>
