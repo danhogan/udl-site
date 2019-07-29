@@ -11,7 +11,8 @@ module.exports = {
 		nav: [
 			{ text: 'Home', link: '/' },
 			{ text: 'Newsletter', link: '/newsletter/' },
-			{ text: 'About', link: '/about/' }
+			{ text: 'About', link: '/about/' },
+			{ text: 'History', link: '/history/' }
 		],
 		logo: '/udl.png',
 		docsDir: 'src',
