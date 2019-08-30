@@ -43,7 +43,7 @@ Yuli Gurriel is hitting .411/.442/.878 with 12 home runs in July so far. That's 
 *as of the morning of July 29th
 <LeagueLeaders :categories="categories"/>
 
-<h2 class="titleHug">End of June Playoff Picture</h2>
+<h2 class="titleHug">End of July Playoff Picture</h2>
 Just 5 matchups left before the playoffs. Crunch time! If the playoffs started today, here's what the playoff bracket would look like (sorry if it doesn't look so great on mobile):
 <PlayoffPicture :playoffs="playoffs"/>
 
