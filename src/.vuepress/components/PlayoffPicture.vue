@@ -8,30 +8,30 @@
                 <div class="item-child">
                     <div class="item">
                         <div class="item-parent">
-                            <p>KLCS</p>
+                            <p>Semifinals</p>
                         </div>
                         <div class="item-childrens">
                             <div class="item-child">
                                 <div class="item">
                                     <div class="item-parent">
-                                        <p>KLDS</p>
+                                        <p>Quarterfinals</p>
                                     </div>
                                     <div class="item-childrens">
                                         <div class="item-child">
                                             <div class="block">
-                                                <img :src="playoffs.koufax[1].udlTeamLogo">
+                                                <img :src="playoffs.teams[1].udlTeamLogo">
                                                 <div>
-                                                    <h2>{{playoffs.koufax[1].title}}</h2>
-                                                    <p>1. {{playoffs.koufax[1].udlTeam}}</p>
+                                                    <h2>{{playoffs.teams[1].title}}</h2>
+                                                    <p>1. {{playoffs.teams[1].udlTeam}}</p>
                                                 </div>
                                             </div>
                                         </div>
                                         <div class="item-child">
                                             <div class="block">
-                                                <img :src="playoffs.koufax[4].udlTeamLogo">
+                                                <img :src="playoffs.teams[8].udlTeamLogo">
                                                 <div>
-                                                    <h2>{{playoffs.koufax[4].title}}</h2>
-                                                    <p>4. {{playoffs.koufax[4].udlTeam}}</p>
+                                                    <h2>{{playoffs.teams[8].title}}</h2>
+                                                    <p>8. {{playoffs.teams[8].udlTeam}}</p>
                                                 </div>
                                             </div>
                                         </div>
@@ -41,24 +41,24 @@
                             <div class="item-child">
                                 <div class="item">
                                     <div class="item-parent">
-                                        <p>KLDS</p>
+                                        <p>Quarterfinals</p>
                                     </div>
                                     <div class="item-childrens">
                                         <div class="item-child">
                                             <div class="block">
-                                                <img :src="playoffs.koufax[2].udlTeamLogo">
+                                                <img :src="playoffs.teams[4].udlTeamLogo">
                                                 <div>
-                                                    <h2>{{playoffs.koufax[2].title}}</h2>
-                                                    <p>2. {{playoffs.koufax[2].udlTeam}}</p>
+                                                    <h2>{{playoffs.teams[4].title}}</h2>
+                                                    <p>4. {{playoffs.teams[4].udlTeam}}</p>
                                                 </div>
                                             </div>
                                         </div>
                                         <div class="item-child">
                                             <div class="block">
-                                                <img :src="playoffs.koufax[3].udlTeamLogo">
+                                                <img :src="playoffs.teams[5].udlTeamLogo">
                                                 <div>
-                                                    <h2>{{playoffs.koufax[3].title}}</h2>
-                                                    <p>3. {{playoffs.koufax[3].udlTeam}}</p>
+                                                    <h2>{{playoffs.teams[5].title}}</h2>
+                                                    <p>5. {{playoffs.teams[5].udlTeam}}</p>
                                                 </div>
                                             </div>
                                         </div>
@@ -71,30 +71,30 @@
                 <div class="item-child">
                     <div class="item">
                         <div class="item-parent">
-                            <p>ALCS</p>
+                            <p>Semifinals</p>
                         </div>
                         <div class="item-childrens">
                             <div class="item-child">
                                 <div class="item">
                                     <div class="item-parent">
-                                        <p>ALDS</p>
+                                        <p>Quarterfinals</p>
                                     </div>
                                     <div class="item-childrens">
                                         <div class="item-child">
                                             <div class="block">
-                                                <img :src="playoffs.aaron[1].udlTeamLogo">
+                                                <img :src="playoffs.teams[3].udlTeamLogo">
                                                 <div>
-                                                    <h2>{{playoffs.aaron[1].title}}</h2>
-                                                    <p>1. {{playoffs.aaron[1].udlTeam}}</p>
+                                                    <h2>{{playoffs.teams[3].title}}</h2>
+                                                    <p>3. {{playoffs.teams[3].udlTeam}}</p>
                                                 </div>
                                             </div>
                                         </div>
                                         <div class="item-child">
                                             <div class="block">
-                                                <img :src="playoffs.aaron[4].udlTeamLogo">
+                                                <img :src="playoffs.teams[6].udlTeamLogo">
                                                 <div>
-                                                    <h2>{{playoffs.aaron[4].title}}</h2>
-                                                    <p>4. {{playoffs.aaron[4].udlTeam}}</p>
+                                                    <h2>{{playoffs.teams[6].title}}</h2>
+                                                    <p>6. {{playoffs.teams[6].udlTeam}}</p>
                                                 </div>
                                             </div>
                                         </div>
@@ -104,24 +104,24 @@
                             <div class="item-child">
                                 <div class="item">
                                     <div class="item-parent">
-                                        <p>ALDS</p>
+                                        <p>Quarterfinals</p>
                                     </div>
                                     <div class="item-childrens">
                                         <div class="item-child">
                                             <div class="block">
-                                                <img :src="playoffs.aaron[2].udlTeamLogo">
+                                                <img :src="playoffs.teams[2].udlTeamLogo">
                                                 <div>
-                                                    <h2>{{playoffs.aaron[2].title}}</h2>
-                                                    <p>2. {{playoffs.aaron[2].udlTeam}}</p>
+                                                    <h2>{{playoffs.teams[2].title}}</h2>
+                                                    <p>2. {{playoffs.teams[2].udlTeam}}</p>
                                                 </div>
                                             </div>
                                         </div>
                                         <div class="item-child">
                                             <div class="block">
-                                                <img :src="playoffs.aaron[3].udlTeamLogo">
+                                                <img :src="playoffs.teams[7].udlTeamLogo">
                                                 <div>
-                                                    <h2>{{playoffs.aaron[3].title}}</h2>
-                                                    <p>3. {{playoffs.aaron[3].udlTeam}}</p>
+                                                    <h2>{{playoffs.teams[7].title}}</h2>
+                                                    <p>7. {{playoffs.teams[7].udlTeam}}</p>
                                                 </div>
                                             </div>
                                         </div>
