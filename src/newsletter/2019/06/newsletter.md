@@ -195,45 +195,43 @@ export default {
             }
         ],
         playoffs: {
-            koufax: {
-                "1": {
+            teams: {
+                "2": {
                     udlTeam: 'Hone Ron Runners',
                     udlTeamLogo: 'https://g.espncdn.com/lm-static/logo-packs/core/Solo/ESPN_Star_Wars_Lando-01.svg',
                     title: "Koufax West Champ"
                 },
-                "2": {
+                "3": {
                     udlTeam: 'Bringers of W.A.R.',
                     udlTeamLogo: 'https://i.imgur.com/94GmH6O_d.jpg?maxwidth=640&shape=thumb&fidelity=medium',
                     title: "Koufax East Champ"
                 },
-                "3": {
+                "6": {
                     udlTeam: 'Team !Ponche!',
                     udlTeamLogo: 'https://g.espncdn.com/lm-static/flb/images/default_logos/5.svg',
                     title: "Wild Card #1"
                 },
-                "4": {
+                "7": {
                     udlTeam: 'Forgot About Trea',
                     udlTeamLogo: 'https://g.espncdn.com/s/flblm/logos/At%20the%20Ballpark-Robb%20Harskamp/Ballpark-01.svg',
                     title: "Wild Card #2"
                 },
-            },
-            aaron: {
                 "1": {
                     udlTeam: 'Back2Back Jax',
                     udlTeamLogo: 'https://larrybrownsports.com/wp-content/uploads/2016/07/max-scherzer-eyes.jpg',
                     title: "Aaron East Champ"
                 },
-                "2": {
+                "4": {
                     udlTeam: 'Big League Chu',
                     udlTeamLogo: 'https://img.fantrax.com/logos/tmLogo_x1joq2kojf9xmujh_512.jpg',
                     title: "Aaron West Champ"
                 },
-                "3": {
+                "5": {
                     udlTeam: 'Discount Bob\'s Couch Emporium',
                     udlTeamLogo: 'http://g.espncdn.com/lm-app/lm/img/shell/shield-FLB.svg',
                     title: "Wild Card #1"
                 },
-                "4": {
+                "8": {
                     udlTeam: 'The Gamblers',
                     udlTeamLogo: 'https://i.imgur.com/y1qKgk1.jpg',
                     title: "Wild Card #2"
