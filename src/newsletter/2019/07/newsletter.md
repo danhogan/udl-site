@@ -45,6 +45,7 @@ Yuli Gurriel is hitting .411/.442/.878 with 12 home runs in July so far. That's 
 
 <h2 class="titleHug">End of July Playoff Picture</h2>
 Just 5 matchups left before the playoffs. Crunch time! If the playoffs started today, here's what the playoff bracket would look like (sorry if it doesn't look so great on mobile):
+Note: This post has been edited since the original publish date and the matchups below or seeding might not reflect what was true at the time. However, the correct 8 teams are displayed.
 <PlayoffPicture :playoffs="playoffs"/>
 
 #### Rest In Peace, Tyler Skaggs

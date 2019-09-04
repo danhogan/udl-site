@@ -50,6 +50,7 @@ I've been messing around with the layout of things here. Hopefully you can still
 
 <h2 class="titleHug">End of June Playoff Picture</h2>
 Already just 8 matchups left before the playofs. If the playoffs started today, here's what the playoff bracket would look like (sorry if it doesn't look so great on mobile):
+Note: This post has been edited since the original publish date and the matchups below or seeding might not reflect what was true at the time. However, the correct 8 teams are displayed.
 <PlayoffPicture :playoffs="playoffs"/>
 
 #### Let's keep this party rollin'!
