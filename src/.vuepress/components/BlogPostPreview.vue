@@ -43,9 +43,11 @@ export default {
 }
 
 .button {
-	border: 1px solid #B23E35;
+    /* primaryRed */
+	border: 1px solid #f85f73;
+
 	border-radius: 4px;
-	color: #B23E35;
+	color: #f85f73;
 	font-size: 0.8rem;
 	padding: 0.5rem 0.75rem;
 	text-transform: uppercase;
