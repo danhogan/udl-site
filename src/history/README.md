@@ -2,4 +2,5 @@
 
 There will be more here in the future.
 
-Here is our [initial draft](draft.html). Let there me judgement.
+Here is our [initial draft](draft.html). Let there be judgement.
+
