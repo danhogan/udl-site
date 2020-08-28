@@ -22,6 +22,11 @@
           :item="actionLink"
         />
       </p>
+
+      <div class="twoDudes">
+        <img src="../assets/stroman.jpg">
+        <img src="../assets/yelich.jpg">
+      </div>
     </div>
 
     <div
@@ -159,4 +164,17 @@ export default {
     .feature
       h2
         font-size 1.25rem
+</style>
+
+<style>
+  .twoDudes {
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+  }
+
+  @media only screen and (max-width: 1024px) {
+        .twoDudes {
+            grid-template-columns: 1fr;
+        }
+    }
 </style>
