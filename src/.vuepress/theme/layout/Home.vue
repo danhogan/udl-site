@@ -24,8 +24,8 @@
       </p>
 
       <div class="twoDudes">
-        <img src="../assets/stroman.jpg">
-        <img src="../assets/yelich.jpg">
+        <img src="../assets/maeda.jpg">
+        <img src="../assets/cruz.jpg">
       </div>
     </div>
 
