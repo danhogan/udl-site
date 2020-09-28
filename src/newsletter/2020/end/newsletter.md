@@ -160,5 +160,7 @@ export default {
 
 .championLogo {
     max-height: 20em;
+    display: block;
+    margin: auto;
 }
 </style>
