@@ -9,6 +9,7 @@ extras: true
 ---
 
 Hey! Say hello to a full 162 games ahead of us!
+
 ![lindor-hi](https://media.giphy.com/media/U8OVgqRHc4lYCFTFes/giphy.gif)
 
 ## Matchups To Watch
