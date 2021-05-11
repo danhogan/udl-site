@@ -15,6 +15,7 @@ Well it's been quite the start!
 ## Matchups To Watch
 
 <div class="weekContainer" v-for="week in weeks">
+<h1>Week {{week.week}}</h1>
 
 <div class="matchupContainer" v-for="matchup in week.matchups">
 
