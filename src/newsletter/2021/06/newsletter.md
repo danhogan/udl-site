@@ -1,6 +1,6 @@
 ---
 title: June 2021 Newsletter
-date: 2021-06-02 06:00:00
+date: 2021-06-03 06:00:00
 type: post
 blog: true
 tags:
