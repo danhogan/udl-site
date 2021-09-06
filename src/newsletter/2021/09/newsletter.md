@@ -30,7 +30,7 @@ The playoffs are here! Congrats to those that made it! Here is the bracket we ha
 </div>
 
 <h2 class="titleHug">Category Leaders - End of UDL Regular Season</h2>
-*as of September 3rd
+*as of morning of September 6th
 <LeagueLeaders :categories="categories"/>
 
 
@@ -129,83 +129,83 @@ export default {
         categories: [
             {
                 category: 'Runs',
-                value: 863,
-                udlTeam: 'Back2Back Jax',
-                udlTeamLogo: 'https://larrybrownsports.com/wp-content/uploads/2016/07/max-scherzer-eyes.jpg',
-                playerName: 'Anthony Rendon',
-                playerImage: 'https://upload.wikimedia.org/wikipedia/commons/0/0a/Anthony_Rendon_%2814430676940%29.jpg'
+                value: 745,
+                udlTeam: 'Forgot About Trea',
+                udlTeamLogo: 'https://g.espncdn.com/s/flblm/logos/At%20the%20Ballpark-Robb%20Harskamp/Ballpark-01.svg',
+                playerName: 'Mitch Haniger',
+                playerImage: 'https://miro.medium.com/max/5184/1*MziMKwSwItArbVawLuLmUg.jpeg'
             },
             {
                 category: 'Home Runs',
-                value: 271,
-                udlTeam: 'Back2Back Jax',
-                udlTeamLogo: 'https://larrybrownsports.com/wp-content/uploads/2016/07/max-scherzer-eyes.jpg',
-                playerName: 'Eugenio Suarez',
-                playerImage: 'https://imagesvc.timeincapp.com/v3/fan/image?url=https://blogredmachine.com/wp-content/uploads/getty-images/2017/07/966940688.jpeg&c=sc&w=850&h=560'
+                value: 234,
+                udlTeam: 'Forgot About Trea',
+                udlTeamLogo: 'https://g.espncdn.com/s/flblm/logos/At%20the%20Ballpark-Robb%20Harskamp/Ballpark-01.svg',
+                playerName: 'Salvador Perez',
+                playerImage: 'https://kckingdom.com/wp-content/uploads/imagn-images/2017/07/14963304.jpeg'
             },
             {
                 category: 'RBI',
-                value: 825,
-                udlTeam: 'Back2Back Jax',
-                udlTeamLogo: 'https://larrybrownsports.com/wp-content/uploads/2016/07/max-scherzer-eyes.jpg',
-                playerName: 'Corey Dickerson',
-                playerImage: 'https://www.inquirer.com/resizer/xanp9SfpZzXlw50mI2DkOEQhkh4=/1400x932/smart/arc-anglerfish-arc2-prod-pmn.s3.amazonaws.com/public/SG5UUAJUSBBZZPP5M67QJFIIOI.jpg'
+                value: 715,
+                udlTeam: 'Forgot About Trea',
+                udlTeamLogo: 'https://g.espncdn.com/s/flblm/logos/At%20the%20Ballpark-Robb%20Harskamp/Ballpark-01.svg',
+                playerName: 'Austin Riley',
+                playerImage: 'https://i0.wp.com/www.sportstalkatl.com/wp-content/uploads/2021/06/dlv210608022-atl-v-phi.jpg?fit=1000%2C667&ssl=1'
             },
             {
                 category: 'Stolen Bases',
-                value: 123,
-                udlTeam: 'Bringers of W.A.R.',
-                udlTeamLogo: 'https://i.imgur.com/94GmH6O_d.jpg?maxwidth=640&shape=thumb&fidelity=medium',
-                playerName: 'Mallex Smith',
-                playerImage: 'https://cdn-images-1.medium.com/max/2400/1*lGUmOBOiujim1QeCDxT0Tg.jpeg'
+                value: 142,
+                udlTeam: 'Back2Back Jax',
+                udlTeamLogo: 'https://larrybrownsports.com/wp-content/uploads/2016/07/max-scherzer-eyes.jpg',
+                playerName: 'Starling Marte',
+                playerImage: 'https://sportshub.cbsistatic.com/i/r/2021/08/10/935477e2-b5ab-4e2b-b501-5b73bc535b39/thumbnail/1200x675/6da17c9307b3341f5fdd5f9d35b8687e/gettyimages-13329739391.jpg'
             },
             {
                 category: 'OBP',
-                value: .3551,
-                udlTeam: 'Team !Ponche!',
-                udlTeamLogo: 'https://g.espncdn.com/lm-static/flb/images/default_logos/5.svg',
-                playerName: 'Kolten Wong',
-                playerImage: 'https://cdn.vox-cdn.com/thumbor/6bTT9QL9SZALn4T6i88tvLgHeqg=/0x0:3478x2625/1200x800/filters:focal(1297x210:1853x766)/cdn.vox-cdn.com/uploads/chorus_image/image/60004911/usa_today_10869569.0.jpg'
+                value: .3471,
+                udlTeam: 'Riptide',
+                udlTeamLogo: 'https://img.fantrax.com/logos/tmLogo_q9qkntnviwcl7gnr_512.jpg',
+                playerName: 'Bryce Harper',
+                playerImage: 'https://thatballsouttahere.com/wp-content/uploads/getty-images/2021/08/1336711074.jpeg'
             },
             {
                 category: 'Strikeouts',
-                value: 1175,
+                value: 1157,
                 udlTeam: 'The Gamblers',
                 udlTeamLogo: 'https://i.imgur.com/y1qKgk1.jpg',
-                playerName: 'Luis Castillo',
-                playerImage: 'https://imagesvc.timeincapp.com/v3/fan/image?url=https://aroundthefoghorn.com/wp-content/uploads/getty-images/2016/04/976408576.jpeg&c=sc&w=1600&h=1067'
+                playerName: 'Corbin Burnes',
+                playerImage: 'https://www.yourbasin.com/wp-content/uploads/sites/78/2021/08/1de9c462a3754fe2976dd3d987c43b1c-1.jpg?w=2560&h=1440&crop=1'
             },
             {
                 category: 'Quality Starts',
-                value: 87,
-                udlTeam: 'Team Riptide',
-                udlTeamLogo: 'https://img.fantrax.com/logos/tmLogo_q9qkntnviwcl7gnr_512.jpg',
-                playerName: 'Jack Flaherty',
-                playerImage: 'https://cdn.vox-cdn.com/thumbor/LtAzYfUjQEagd3FaS3KO-pZE5x8=/0x0:4183x3433/1200x800/filters:focal(1444x88:2112x756)/cdn.vox-cdn.com/uploads/chorus_image/image/56525221/usa_today_10253154.0.jpg'
+                value: 82,
+                udlTeam: 'CT Clippers',
+                udlTeamLogo: 'https://g.espncdn.com/lm-static/logo-packs/core/StarWarsTheRiseOfSkywalker/rise-skywalker-bb-8.svg',
+                playerName: 'Walker Buehler',
+                playerImage: 'https://www.ocregister.com/wp-content/uploads/2021/08/AP21233092281388.jpg?w=525'
             },
             {
                 category: 'ERA',
-                value: 3.712,
-                udlTeam: 'Hone Ron Runners',
-                udlTeamLogo: 'https://g.espncdn.com/lm-static/logo-packs/core/Solo/ESPN_Star_Wars_Lando-01.svg',
-                playerName: 'Jacob DeGrom',
-                playerImage: 'https://res-2.cloudinary.com/ybmedia/image/upload/c_crop,h_1123,w_2000,x_0,y_28/c_fill,f_auto,h_495,q_auto,w_880/v1/m/2/3/2323efe5c4e7689fa1bda72af9e0feb85312935a/12534647.jpg'
+                value: 3.374,
+                udlTeam: 'The Gamblers',
+                udlTeamLogo: 'https://i.imgur.com/y1qKgk1.jpg',
+                playerName: 'Lance Lynn',
+                playerImage: 'https://www.golfdigest.com/content/dam/images/golfdigest/fullset/2021/lancelynn_chicagowhitesox.jpg'
             },
             {
                 category: 'WHIP',
-                value: 1.193,
-                udlTeam: 'Preston Perennials',
-                udlTeamLogo: 'http://vandenberg.id.au/uploads/images/PP-small.jpg',
-                playerName: 'Shane Bieber',
-                playerImage: 'https://cdn.vox-cdn.com/thumbor/gWhl63ydAlxHlAiIyAvpq5wGuac=/0x0:3014x2009/1200x800/filters:focal(1408x277:1890x759)/cdn.vox-cdn.com/uploads/chorus_image/image/60592087/1004910524.jpg.0.jpg'
+                value: 1.126,
+                udlTeam: 'Big League Chu',
+                udlTeamLogo: 'https://img.fantrax.com/logos/tmLogo_x1joq2kojf9xmujh_512.jpg',
+                playerName: 'Charlie Morton',
+                playerImage: 'https://www.ajc.com/resizer/6BhTm_r69a3TgFhphkAKGmOzw2w=/814x458/cloudfront-us-east-1.images.arcpublishing.com/ajc/2XQXUSUNESPCODNZ44YZBAX5L4.jpg'
             },
             {
                 category: 'Saves + Holds',
-                value: 102,
-                udlTeam: 'Big League Chu',
-                udlTeamLogo: 'https://img.fantrax.com/logos/tmLogo_x1joq2kojf9xmujh_512.jpg',
-                playerName: 'Kirby Yates',
-                playerImage: 'https://thenypost.files.wordpress.com/2019/05/kirby-yates.jpg?quality=90&strip=all'
+                value: 112,
+                udlTeam: 'Beanetown Cruz Line',
+                udlTeamLogo: 'https://i.ibb.co/LYNJdbP/40823296-s.jpg',
+                playerName: 'Liam Hendriks',
+                playerImage: 'https://www.imago-images.com/bild/sp/1005886794/s.jpg'
             }
         ],
         playoffs: {
@@ -216,14 +216,14 @@ export default {
                     title: "Aaron West Champ"
                 },
                 "3": {
-                    udlTeam: 'Bringers of W.A.R.',
-                    udlTeamLogo: 'https://i.imgur.com/94GmH6O_d.jpg?maxwidth=640&shape=thumb&fidelity=medium',
-                    title: "Koufax East Champ"
+                    udlTeam: 'Springfield Isotopes',
+                    udlTeamLogo: 'https://capaddicts.com/wp-content/uploads/2015/08/simpsons-springfield-isotopes.png',
+                    title: "Koufax West Champ"
                 },
-                "6": {
-                    udlTeam: 'Team !Ponche!',
-                    udlTeamLogo: 'https://g.espncdn.com/lm-static/flb/images/default_logos/5.svg',
-                    title: "Koufax Wild Card #1"
+                "4": {
+                    udlTeam: 'Wayne\'s Hardware',
+                    udlTeamLogo: 'https://res.cloudinary.com/teepublic/image/private/s--LYtlPysQ--/t_Preview/b_rgb:eae0c7,c_limit,f_jpg,h_630,q_90,w_630/v1482729132/production/designs/990736_1.jpg',
+                    title: "Koufax East Champion"
                 },
                 "8": {
                     udlTeam: 'Forgot About Trea',
@@ -235,19 +235,19 @@ export default {
                     udlTeamLogo: 'https://larrybrownsports.com/wp-content/uploads/2016/07/max-scherzer-eyes.jpg',
                     title: "Aaron East Champ"
                 },
-                "7": {
+                "6": {
                     udlTeam: 'Big League Chu',
                     udlTeamLogo: 'https://img.fantrax.com/logos/tmLogo_x1joq2kojf9xmujh_512.jpg',
                     title: "Aaron Wild Card #2"
                 },
-                "4": {
-                    udlTeam: 'Discount Bob\'s Couch Emporium',
-                    udlTeamLogo: 'http://g.espncdn.com/lm-app/lm/img/shell/shield-FLB.svg',
-                    title: "Aaron West Champ"
+                "7": {
+                    udlTeam: 'Main Cobra Kai',
+                    udlTeamLogo: 'https://g.espncdn.com/s/flblm/logos/At%20the%20Ballpark-Robb%20Harskamp/Ballpark-11.svg',
+                    title: "Koufax Wild Card #1"
                 },
                 "5": {
-                    udlTeam: 'The Gamblers',
-                    udlTeamLogo: 'https://i.imgur.com/y1qKgk1.jpg',
+                    udlTeam: 'Torrano Beisbol Birds',
+                    udlTeamLogo: 'https://i.imgur.com/H2vkfYW.jpg',
                     title: "Aaron Wild Card #1"
                 },
             }
@@ -257,31 +257,31 @@ export default {
                 matchups: [
                     {
                         team1: "Back2Back Jax",
-                        team1Img: "https://cdn.mlbtraderumors.com/files/2018/05/anthony-rendon-nationals-1024x749.jpg",
+                        team1Img: "https://thumbor.forbes.com/thumbor/960x0/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F61194eaf6d0325c1992edc62%2FMLB--AUG-04-Astros-at-Dodgers%2F960x0.jpg%3Ffit%3Dscale",
                         team2: "Forgot About Trea",
-                        team2Img: "https://s.yimg.com/ny/api/res/1.2/7YQ2AWMAfoCthuLSLLOc_g--~A/YXBwaWQ9aGlnaGxhbmRlcjtzbT0xO3c9ODAw/http://media.zenfs.com/en-US/homerun/nbcsports.com/7010d418f5f13129b8f3533226cc7f55",
-                        story: "Back2Back Jax may have the most lethal offense in the league and they just got Willson Contreras and Edwin Encarnacion back. Oh boy. Anthony Rendon continues to mess around trying to steal the MVP. Kerhsaw plus a two-start Scherzer could make the difference for the Jax if they can keep the likes of Andrew Cashner and Robbie Ray afloat. \n Forgot About Trea needs some Washington bats to remain hot as they ride Trea Turner and Juan Soto into the playoffs. Whit Merrifield and Kris Bryant also wait in the wings to make a big impact. Trea's pitching might be a little riskier, but there's plenty of upside. Lucas Gioloto, Mike Fiers, Zack Wheeler, and Miles Mikolas all can put in big starts. Wheeler's performance in Washington on Wednesday could prove to be a large factor in this UDL first-round matchup."
+                        team2Img: "https://www.kansascity.com/latest-news/p7u4nw/picture253840568/alternates/FREE_768/AP21241801948416.jpg",
+                        story: "Back2Back Jax comes in as the #1 overall seed and does so for a reason. There is plenty of prowess in the lineup and an awful lot of speed, including the far-and-away two best theifs of the year in Starling Marte and Whit Merrifield. The rotation is hanging on the back of Max Scherzer and a solid bullpen could play a big factor as well. A possible two-start week from Scherzer could be huge and Chris Flexen, who has been racking up quality starts the last month, gets a nice matchup at home against Arizona.\nForgot About Trea comes in with the other major Nat-turned-Dodger and a load of hot offense including Salvador Perez and the always-incredible Juan Soto. Lucas Giolito has landed on the IL at a rather inopportune time and the uncertainty of Alex Wood's availability isn't encouraging either. Zack Wheeler will have to come up big in his Rocky Road matchup."
                     },
                     {
-                        team1: "Discount Bob\'s Couch Emporium",
-                        team1Img: "https://b.fssta.com/uploads/2019/07/pi-fsw-brewers-christian-yelich-reds-070119.jpg",
-                        team2: "The Gamblers",
-                        team2Img: "https://image.masslive.com/home/mass-media/width600/img/redsox_impact/photo/jd-martinez-885bd725b66f95f0.jpg",
-                        story: "Discount Bob\'s Couch Emporium is lollygagging into the playoffs hoping Christian Yelich can go nuclear in September once again. Either that or Jake Cave will have to save the day. The Emporium has an interesting array of pitching that could easily go either way. \n The Gamblers are roaring into the playoffs behind studs like Aaron Judge and J.D. Martinez. Solid pitching with decent matchups puts the Gamblers in a good position to go for the underdog win here."
+                        team1: "Wayne's Hardware",
+                        team1Img: "https://jaysjournal.com/wp-content/uploads/getty-images/2017/07/1270154028.jpeg",
+                        team2: "Torrano Beisbol Birds",
+                        team2Img: "https://cdn.vox-cdn.com/thumbor/5DHzqwj6dsBBCZLia9esjDa2aNA=/0x0:3000x2000/1200x800/filters:focal(1260x760:1740x1240)/cdn.vox-cdn.com/uploads/chorus_image/image/69790289/1234927573.0.jpg",
+                        story: "Wayne's Hardware features a solid lineup including the hot bat of Randy Arozarena. Joey Votto doing his thing again would be huge. The pitching staff features the red-hot Logan Webb, but gets him on a week he pitches in Coors. Luckily, the rotation also features Cy Young-hopeful Robbie Ray and some other arms that have potential to make a solid impact.\nBo Bichette leads the Torrano Beisbol Birds into battle alongside Manny Machado and the hot bat of Alex Verdugo. A potential two-start Aaron Nola could be a big factor if the ace can return to form. Adam Wainwright has been anchoring the staff recently, but gets a tough matchup against the Dodgers. This matchup could easily go either way."
                     },
                     {
-                        team1: "Bringers of W.A.R.",
-                        team1Img: "https://fivethirtyeight.com/wp-content/uploads/2019/08/GettyImages-1161893364-1-e1565305146478.jpg?w=575",
-                        team2: "Team !Ponche!",
-                        team2Img: "https://thecomeback.com/wp-content/uploads/2016/08/578055522.jpg",
-                        story: "The Bringers of W.A.R. have the bats and speed to compete with anyone. Mike Trout is Mike Trout and Mallex Smith has a 'chief thief' title to uphold. Can old-man Pujols make a difference in the fantasy playoffs of 2019? Bringers of W.A.R. pitching has lucked into some nice matchups during this first-round matchup as well. \n Team !Ponche\'s! offense is firing on all cylinders with Yadier Molina, Freddie Freeman, Kolten Wong, Nolan Arenado, Ketel Marte, and wow - the whole lineup is swinging a hot bat. However, leaving David Peralta in the lineup while he's recovering from surgery likely won't be helpful. Team !Ponche! has Greinke in Milwaukee and Corbin at Atlanta that could prove to be important starts. Jake Arrieta, who is also recovering from surgery, is cheering on Team !Ponche! in the lineup."
-                    },
-                    {
-                        team1: "Hone Ron Runners",
-                        team1Img: "https://i.kinja-img.com/gawker-media/image/upload/s--ZP6_XTmq--/c_scale,f_auto,fl_progressive,q_80,w_800/futehocw713yof5l0ezy.jpg",
+                        team1: "Springfield Isotopes",
+                        team1Img: "https://cdn.vox-cdn.com/thumbor/c3wBpH6DBqZpRXow_in0Jlq2zg8=/0x0:4335x2890/1200x800/filters:focal(1677x562:2369x1254)/cdn.vox-cdn.com/uploads/chorus_image/image/69725519/usa_today_16536703.0.jpg",
                         team2: "Big League Chu",
-                        team2Img: "https://www.washingtonpost.com/resizer/Kh1Ki1j9tHCgIvGkcwTa5jEwutc=/1484x0/arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/KP5E2IECCMI6TEZ5OUAQODXGNE.jpg",
-                        story: "Hone Ron Runners are storming into the playoffs as the top seed of the Koufax League. Aristedes Aquino continues to be ridiculous and Adalberto Mondesi came flying back from injury. A hot Tommy Pham and Kevin Newman combined with the solid Justin Turner will make for an offense difficult to compete with. The Runners also roster top-flight pitching in the likes of Jacob DeGrom and Justin Verlander. Maybe Madison Bumgarner can give the Runners a little playoff magic too. Solid relievers make Hone Ron Runners an all-around juggernaut. \n Big League Chu needs Jorge Polanco and Mark Canha to stay hot in order to compete in the offensive categories in this matchup. Solid starts from Jon Lester, Chris Paddack, Stephen Strasburg, and Charlie Morton might help be able to compete with the Runners' top arms."
+                        team2Img: "https://sportshub.cbsistatic.com/i/r/2021/08/11/32019cd7-38f2-4461-9274-32bf6900473c/thumbnail/1200x675/7c85ccff5ebfd14d51b4058573f1569b/cedricmullins.jpg",
+                        story: "The Springfield Isotopes tried to tell me they wouldn't be here, but are one of the hottest teams in the UDL. Ty France and Javy Baez lead the charge with the offense while Dyland Cease and Jose Berrios try to hold the pitching together. The formidable bullpen led by Emmanuel Clase could also be a key factor.\nBig League Chu fought tooth and nail in the final week of the regular season to edge their way into the playoffs. Cedric Mullins, Ian Happ, and Lorenzo Cain are swinging hot bats that will carry the offensive production. A solid rotation featuring Tarik Skubal, Charlie Morton, and Blake Snell offers plenty of potential. Big League Chu also features one of the strongest bullpens in the league led by Josh Hader. This could be a fun one in the saves+holds category."
+                    },
+                    {
+                        team1: "The Gamblers",
+                        team1Img: "https://cdn.theathletic.com/app/uploads/2020/09/17010604/USATSI_14939556-1024x772.jpg",
+                        team2: "Maine Cobra Kai",
+                        team2Img: "https://cdn.vox-cdn.com/thumbor/qcedGMkAKwJahhAclxRlLNiIQQ4=/1400x1400/filters:format(jpeg)/cdn.vox-cdn.com/uploads/chorus_asset/file/22825988/usa_today_16677944.jpg",
+                        story: "The Gamblers feature a thumping lineup including Matt Olson, Jorge Soler, J.D. Martinez, and Aaron Judge. Can Eugenio Suarez make a difference? The Gamblers pitching is stacked, but will Lance Lynn return to make a start this week? Either way, Luis Castillo and Corbin Burnes know how to hurl a few baseballs. Joe Musgrove is certainly great too, but has a tough matchup at Dodger Stadium. All those aces, but will it be a two-start Bailey Ober that tips the scales?\nYou can't spell Schwindel without \"win\". We shall see if Frank Schwindel can continue to carry the offense along with Nick Castellanos, Josh Bell, and Trevor Story. The Maine Cobra Kai rotation offers plenty of potential and includes two-start weeks from Lance McCullers and Jameson Taillon. It could be a tough go against The Gamblers rotation, but there is still hope!"
                     }
                 ]
             }
