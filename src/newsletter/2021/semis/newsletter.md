@@ -11,7 +11,7 @@ extras: true
 ## Quarterfinal Recap
 
 ### Back2Back Jax defeats Forgot About Trea
-![Juan Soto](https://sportsnaut.com/wp-content/uploads/2021/09/MLB-Washington-Nationals-at-Atlanta-Braves-16710654-scaled.jpg)
+![Starling Marte](https://a57.foxsports.com/fsvideoprod-a.akamaihd.net/img/Fox_Sports_Production/251/931/1280/720/starling.png?ve=1&tl=1)
 
 The #1 overall seed took care of business and won a pretty close matchup. Sneaking by with one more run and one more home run was clutch as even 16 scoreless innings from Max Shcherzer was not enough to take the win in ERA. Getting one more save+hold was clutch as well.
 
