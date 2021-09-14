@@ -1,12 +1,36 @@
 ---
 title: Semifinals 2021
-date: 2021-09-14 00:00:00
+date: 2021-09-14 16:00:00
 type: post
 blog: true
 tags:
     - Newsletter
 extras: true
 ---
+
+## Quarterfinal Recap
+
+### Back2Back Jax defeats Forgot About Trea
+![Juan Soto](https://sportsnaut.com/wp-content/uploads/2021/09/MLB-Washington-Nationals-at-Atlanta-Braves-16710654-scaled.jpg)
+
+The #1 overall seed took care of business and won a pretty close matchup. Sneaking by with one more run and one more home run was clutch as even 16 scoreless innings from Max Shcherzer was not enough to take the win in ERA. Getting one more save+hold was clutch as well.
+
+### Torrano Beisbol Birds defeats Wayne's Hardware
+![Alex Colome](https://img.mlbstatic.com/mlb-images/image/private/t_2x1/t_w1536/mlb/fi1c2s0uv5zxt3lvddje.jpg)
+
+The Beisbol Birds offense was just a touch better and the pitching was able to hold it together enough to grab the ratio wins.
+
+### Big League Chu defeats Springfield Isotopes
+![Ian Happ](https://assets.cubsinsider.com/wp-content/uploads/2021/09/10073019/AP21249687697032-scaled.jpg)
+
+Big League Chu came up big against perhaps the hottest team in the UDL. It was a very close matchup across the board with two well-matched teams, but Big League Chu had the edge everywhere except stolen bases.
+
+### Maine Cobra Kai defeats The Gamblers
+![Lance McCullers](https://cdn.theathletic.com/app/uploads/2021/09/12175750/GettyImages-1339874691-1024x683.jpg)
+
+Maine Cobra Kai came up huge on the pitching side to take down one of the strongest rotations in the league. Two quality starts and 14 strikeouts from Lance McCullers Jr. proved too much for Corbin Burnes' 8 no-hit innings. Josh Bell and Ryan McMahon played their part as well keeping the edge on the offensive side.
+
+## Onto The Semis
 
 The Aaron League couldn't quite pull off the sweep and three wild cards move into the semis. Congrats to those who are moving on and congrats to the rest on a great season. Here are the teams that remain:
 <div class="wrapper">
@@ -315,14 +339,14 @@ export default {
                         team1Img: "https://www.mcclatchy-wires.com/incoming/avyj21/picture253936798/alternates/FREE_1140/Braves_Dodgers_Baseball_82350.jpg",
                         team2: "Torrano Beisbol Birds",
                         team2Img: "https://detroit.cbslocal.com/wp-content/uploads/sites/15909782/2021/09/GettyImages-1339074447-e1631196447188.jpg",
-                        story: "Discount Bob's Couch Emporium stopped the hot Gamblers in their tracks behind big performances from the bats of Christian Yelich, Kyle Schwarber, AJ Pollock, and Matt Joyce. Archie Bradley and Emilio Pagan helped seal down the pitching end with 3 saves apiece. \n Forgot About Trea demolished the Back2Back Jax juggernaut - quite an upset for the 8 seed. Juan Soto, Carlos Martinez, Lucas Gioloto, and a two-start Tony Disco all helped to make a big difference. \n Both squads in this semifinal matchup got through the first round with solid bullpen performances. Now we get to see how they matchup against each other. Many other categorical stats were similar for both teams in their quarterfinal matchup. Forgot About Trea could have an advantage with several two-start pitchers - though the matchups could be tough. The Emporium has Bauer and Fried lined up for two-starts as well. Many things seem even and balanced between these two squads. This could be a close one."
+                        story: "Torrano Beisbol Birds get a potential two-starts from both Adam Wainwright and Rich Hill - so yay for old-dude pitching. The Birds had a touch more fire in their bats last week, but anything could happen and Back2Back Jax has stolen bases pretty well on lock. Back2Back Jax also gets Kershaw back for a potential 2 starts to go along with teammate Max Scherzer who is on quite a tear."
                     },
                     {
                         team1: "Big League Chu",
                         team1Img: "https://www.ajc.com/resizer/SWLPqPI02xELS3VGS9AVKeSbw68=/814x458/cloudfront-us-east-1.images.arcpublishing.com/ajc/S5WUKDZVIREQJHP3JDWHKYPAWQ.jpg",
                         team2: "Maine Cobra Kai",
                         team2Img: "https://9b16f79ca967fd0708d1-2713572fef44aa49ec323e813b06d2d9.ssl.cf2.rackcdn.com/1140x_a10-7_cTC/Miami-Marlins-v-Washington-Nationals-2-1631314656.jpg",
-                        story: "Big League Chu's Matt Chapman had just two hits in his quarterfinal matchup - both home runs. Two bombs along with eight walks accounts for not a bad week in an OBP league. Mark Canha and Asdrubal Cabrera also came up big on the offensive side of the ball. In spite of a Jon Lester implosion, he still had two starts and racked up sixteen big Ks for BLC. Chaz Roe with three holds may be the unsung hero allowing Big League Chu to just beat out the Runners in the saves+holds category.  \n Team !Ponche\'s! offense is still cookin'. Ketel Marte and Joc Pederson had monster weeks in the quarterfinal matchup. The two-start Sandy Alcantara came up with fifteen big Ks for Team !Ponche! on the pitching side - perhaps it was Jake Arrieta's injured, intimidating stare that pushed Sandy onward. \n The semifinal story here seems like it could be a case of Big League Chu's pitching vs Team !Ponche's! bats. Can either team find a way to put a dent in each other? Big League Chu could be fighting a tough battle going up against a two-start Greinke. However, as we saw in the first round of our playoffs this year, anything can happen."
+                        story: "Big League Chu had the better offense last week while Maine Cobra Kai had standout pitching. I could see a lot of categories \"meet in the middle\" and be very close. Two starts from E-Rod and Eovaldi give Cobra Kai the volume potential to be strong in strikeouts and quality starts again while Big League Chu almost certainly will run away with saves+holds. The ratios could be key."
                     }
                 ]
             }
