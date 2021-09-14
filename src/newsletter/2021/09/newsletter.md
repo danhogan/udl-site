@@ -241,7 +241,7 @@ export default {
                     title: "Aaron Wild Card #2"
                 },
                 "7": {
-                    udlTeam: 'Main Cobra Kai',
+                    udlTeam: 'Maine Cobra Kai',
                     udlTeamLogo: 'https://g.espncdn.com/s/flblm/logos/At%20the%20Ballpark-Robb%20Harskamp/Ballpark-11.svg',
                     title: "Koufax Wild Card #1"
                 },
